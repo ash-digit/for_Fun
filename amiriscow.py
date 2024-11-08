@@ -1,0 +1,1 @@
+print("amir is konde golabi")
